@@ -1,0 +1,20 @@
+body {
+    padding: 30px;
+    background-image: url('wallpaper_main_characters.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#top {
+    font-size: 195px;
+    background-image: url("logo.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-indent: -9999px;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
